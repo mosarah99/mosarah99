@@ -2,7 +2,7 @@
 <!-- ### Hi there 👋 -->
 
 ### Who am I?
-I am a Computer Programming and Analysis student at Fanshawe College, London, ON, Canada, and I love working on differnt projects. <br>
+I am a Computer Programming and Analysis student at Fanshawe College, London, ON, Canada, and I love working on different projects. <br>
 I also love making Games. 
 
 <!-- - 🔭 I’m currently working on ...  -->
