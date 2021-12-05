@@ -1,16 +1,63 @@
-### Hi there 👋
+# 👋 Hi, This is Sadat, Welcome to my github profile !!
+<!-- ### Hi there 👋 -->
+
+### Who am I?
+I am a Computer Programming and Analysis student at Fanshawe College, London, ON, Canada, and I love working on differnt projects. <br>
+I also love making Games. 
+
+<!-- - 🔭 I’m currently working on ...  -->
+- 🌱 I’m currently learning ... 
+  - Mobile Development
+  - Flutter
+  - Blender
+
+- 👯 I’m looking to collaborate on ...
+  - C++ projects
+  - Java Project
+  - C# Projects
+  - Web Dev Projects
+  - Games
+
+- 🤔 I’m looking for help with ...
+  - Help me learn new things 😀, contribute to my projects 
+
+
+- 💬 Ask me about ...
+  - Anything 😁 (As long as it's not personal)
+
+
+- 📫 How to reach me: ...
+  - [Email](mailto:sadatrahman001@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/sadatrahman001/)
+  - [Discord](https://discordapp.com/users/742636522473390152)
+
+
+- 😄 Pronouns: ...
+  - He/Him
+
+
+- ⚡ Fun fact: ...
+  - Programming is not my first choice of career. And yet, here I am.
+
+### Statistics
+    
+<!--  Also consider using height="180em" later on  -->
+<!--  A big shoutout to @anuraghazra for their amazing project.
+      Learn more here: https://github.com/anuraghazra/github-readme-stats  -->
+ 
+<div>
+  <a href="https://github.com/mosarah99">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mosarah99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=222266"/> 
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosarah99&langs_count=6&layout=compact&langs_count=7&theme=tokyonight&border_color=222266"/>
+  </a>
+</div>
+
+
 
 <!--
 **mosarah99/mosarah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
