@@ -46,9 +46,12 @@ I also love making Games.
       Learn more here: https://github.com/anuraghazra/github-readme-stats  -->
  
 <div align="center">
-  <a href="https://github.com/mosarah99">
-    <img width="160em" src="https://github-readme-stats.vercel.app/api?username=mosarah99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=222266"/> 
-    <img width="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosarah99&langs_count=6&layout=compact&langs_count=7&theme=tokyonight&border_color=222266"/>
+  <a href="#">
+    <img width="550em" src="https://github-readme-stats.vercel.app/api?username=mosarah99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=222266"/> 
+    
+</div>
+<div align="center">
+    <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosarah99&langs_count=6&layout=compact&langs_count=7&theme=tokyonight&border_color=222266"/>
   </a>
 </div>
 
