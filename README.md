@@ -31,10 +31,10 @@ I also love making Games.
 - 🤔 I’m looking for help with ...
   - I'm creating my portfolio website. Come help me with it. 
   - Help me learn new things 😀, contribute to my projects 
-
+<!-- 
 
 - 💬 Ask me about ...
-  - Anything 😁 (As long as it's not personal)
+  - Anything 😁 (As long as it's not personal) -->
 
 
 - 📫 How to reach me: ...
