@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 # 👋 Hi, This is Sadat, Welcome to my github profile !!
-Check out my website [here](https://mosarah99.github.io): https://mosarah99.github.io
+Check out my website here: <a href='https://mosarah99.github.io' target='_blank'>https://mosarah99.github.io</a>
 <!-- ### Hi there 👋 -->
 
 ### Who am I?
