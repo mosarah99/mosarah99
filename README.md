@@ -5,11 +5,19 @@ Here are some ideas to get you started:
 
 
 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://placehold.co/3000x500/334/ddd?font=montserrat&text=Sadat+Rahman">
+    <source media="(prefers-color-scheme: light)" srcset="https://placehold.co/3000x500/ddd/334?font=montserrat&text=Sadat+Rahman">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  </picture>
+</div>
 
-
+<p align='center' size='4rem'>
 # 👋 Hi, This is Sadat, Welcome to my github profile !!
 Check out my website here: <a href='https://mosarah99.github.io' target='_blank'>https://mosarah99.github.io</a>
 <!-- ### Hi there 👋 -->
+</p>
 
 ### Who am I?
 I am a Computer Programming and Analysis student at Fanshawe College, London, ON, Canada, and I love working on different projects. <br>
