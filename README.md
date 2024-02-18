@@ -1,22 +1,3 @@
-<style>
-
-  .btn-seemore {
-    background-color: #bbd;
-    font-weight: bolder;
-    line-height: 1.5rem;
-    font-size: 1rem;
-    border: 1px solid black;
-    border-radius: 0px;
-    cursor: pointer;
-    border-radius: .5rem;
-    transition: box-shadow 200ms ease-out;
-  }
-  .btn-seemore:hover {
-    box-shadow: 2px 2px 4px rgba(255,255,255);
-  }
-</style>
-
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://placehold.co/3000x1000/334/ddd?font=montserrat&text=Sadat+Rahman">
@@ -97,7 +78,7 @@
 [![website](https://img.shields.io/badge/-Portfolio%20Website-000?&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IS0tIFdyaXR0ZW4gYnkgVHJlZXIgKGdpdGxhYi5jb20vVHJlZXIpIC0tPg0KPHN2ZyANCgl2ZXJzaW9uPSIxLjEiIA0KCXhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgDQoJeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIA0KCXdpZHRoPSI2MDAiIA0KCWhlaWdodD0iNjAwIg0KCWZpbGw9IndoaXRlIj4NCg0KICA8dGl0bGU+QWJzdHJhY3QgdXNlciBpY29uPC90aXRsZT4NCg0KICA8ZGVmcz4NCiAgICA8Y2xpcFBhdGggaWQ9ImNpcmN1bGFyLWJvcmRlciI+DQogICAgICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSIzMDAiIHI9IjI1MCIgLz4NCiAgICA8L2NsaXBQYXRoPg0KICA8L2RlZnM+DQogIA0KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSIzMDAiIHI9IjI4MCIgZmlsbD0iYmxhY2siIC8+DQogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjIzMCIgcj0iMTAwIiAvPg0KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI1NTAiIHI9IjE5MCIgY2xpcC1wYXRoPSJ1cmwoI2NpcmN1bGFyLWJvcmRlcikiIC8+DQo8L3N2Zz4=)](https://mosarah99.github.io)
 
 
-<a href="https://github.com/mosarah99?tab=repositories" target="blank"><button type="button" class="btn-seemore">See More</button></a>
+[See More](https://github.com/mosarah99?tab=repositories)
 
 
 
