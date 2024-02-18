@@ -1,10 +1,3 @@
-<!--
-**mosarah99/mosarah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
 <style>
 
   .btn-seemore {
@@ -104,65 +97,31 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/-Portfolio%20Website-000?&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IS0tIFdyaXR0ZW4gYnkgVHJlZXIgKGdpdGxhYi5jb20vVHJlZXIpIC0tPg0KPHN2ZyANCgl2ZXJzaW9uPSIxLjEiIA0KCXhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgDQoJeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIA0KCXdpZHRoPSI2MDAiIA0KCWhlaWdodD0iNjAwIg0KCWZpbGw9IndoaXRlIj4NCg0KICA8dGl0bGU+QWJzdHJhY3QgdXNlciBpY29uPC90aXRsZT4NCg0KICA8ZGVmcz4NCiAgICA8Y2xpcFBhdGggaWQ9ImNpcmN1bGFyLWJvcmRlciI+DQogICAgICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSIzMDAiIHI9IjI1MCIgLz4NCiAgICA8L2NsaXBQYXRoPg0KICA8L2RlZnM+DQogIA0KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSIzMDAiIHI9IjI4MCIgZmlsbD0iYmxhY2siIC8+DQogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjIzMCIgcj0iMTAwIiAvPg0KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI1NTAiIHI9IjE5MCIgY2xpcC1wYXRoPSJ1cmwoI2NpcmN1bGFyLWJvcmRlcikiIC8+DQo8L3N2Zz4=)](https://mosarah99.github.io)
 
 
-<button type="button" class="btn-seemore" on-click="() => {window.location.href = 'www.google.com';}">See More</button>
+<a href="https://github.com/mosarah99?tab=repositories" target="blank"><button type="button" class="btn-seemore">See More</button></a>
 
 
 
 
+## Contact Me
 
-### Who am I?
-I am a Computer Programming and Analysis student at Fanshawe College, London, ON, Canada, and I love working on different projects. <br>
-I also love making Games. 
+[![email](https://img.shields.io/badge/-Email%20----%20Have%20freelancing%20tasks%3F-000?&style=for-the-badge&logo=gmail)](mailto:sadatrahman001+fromgithub@gmail.com) 
 
-<!-- - 🔭 I’m currently working on ...  -->
-- 🌱 I’m currently learning ... 
-  - Mobile Development
-  - Flutter
-  - Blender
+[![linkedin](https://img.shields.io/badge/-LinkedIn%20----%20See%20my%20professional%20presence-000?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sadatrahman001/) 
 
-- 👯 I’m looking to collaborate on ...
-  - C++ projects
-  - Java Project
-  - C# Projects
-  - Web Dev Projects
-  - Games
-
-- 🤔 I’m looking for help with ...
-  - I'm creating my portfolio website. Come help me with it. 
-  - Help me learn new things 😀, contribute to my projects 
-<!-- 
-
-- 💬 Ask me about ...
-  - Anything 😁 (As long as it's not personal) -->
+[![discord](https://img.shields.io/badge/-Discord%20----%20Informal%20chat-000?&style=for-the-badge&logo=discord)](https://discordapp.com/users/742636522473390152) 
 
 
-- 📫 How to reach me: ...
-  - [Email](mailto:sadatrahman001@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/sadatrahman001/)
-  - [Discord](https://discordapp.com/users/742636522473390152)
 
-
-- 😄 Pronouns: ...
-  - He/Him
-
-
-- ⚡ Fun fact: ...
-  - Programming is not my first choice of career. And yet, here I am.
 
 ### Statistics
-    
-<!--  Also consider using height="180em" later on  -->
 <!--  A big shoutout to @anuraghazra for their amazing project.
       Learn more here: https://github.com/anuraghazra/github-readme-stats  -->
  
 <div align="center">
-  <a href="#">
-    <img width="550em" src="https://github-readme-stats.vercel.app/api?username=mosarah99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=222266"/> 
-    
+    <img width="550em" src="https://github-readme-stats.vercel.app/api?username=mosarah99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=222266&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&icon_color=000"/> 
 </div>
 <div align="center">
-    <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosarah99&langs_count=6&layout=compact&langs_count=7&theme=tokyonight&border_color=222266"/>
-  </a>
+    <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosarah99&langs_count=6&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&border_color=222266"/>
 </div>
 
 
