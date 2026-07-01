@@ -89,20 +89,13 @@
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn%20----%20See%20my%20professional%20presence-000?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sadatrahman001/) 
 
-[![discord](https://img.shields.io/badge/-Discord%20----%20Informal%20chat-000?&style=for-the-badge&logo=discord)](https://discordapp.com/users/742636522473390152) 
-
-
 
 
 ### Statistics
-<!--  A big shoutout to @anuraghazra for their amazing project.
-      Learn more here: https://github.com/anuraghazra/github-readme-stats  -->
- 
-<div align="center">
-    <img width="550em" src="https://github-readme-stats.vercel.app/api?username=mosarah99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=222266&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&icon_color=000"/> 
-</div>
-<div align="center">
-    <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosarah99&langs_count=6&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&border_color=222266"/>
-</div>
 
+
+<div>
+  <img src="https://github-stats-extended.vercel.app/api?username=mosarah99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&hide_rank=true"/> 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mosarah99&layout=compact&langs_count=6&hide_values=true&hide_border=true&theme=tokyonight"/>
+</div>
 
