@@ -1,8 +1,16 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://placehold.co/3000x1000/334/ddd?font=montserrat&text=Sadat+Rahman">
-    <source media="(prefers-color-scheme: light)" srcset="https://placehold.co/3000x1000/ddd/334?font=montserrat&text=Sadat+Rahman">
-    <img alt="Sadat Rahman" src="https://placehold.co/3000x1000/ddd/334?font=montserrat&text=Sadat+Rahman">
+    <source 
+      aria-label="A text banner with the name Sadat Rahman on a dark background"
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://placehold.co/3000x1000/334/ddd?font=montserrat&text=Sadat+Rahman">
+    <source 
+      aria-label="A text banner with the name Sadat Rahman"
+      media="(prefers-color-scheme: light)" 
+      srcset="https://placehold.co/3000x1000/ddd/334?font=montserrat&text=Sadat+Rahman">
+    <img 
+      alt="A text banner with the name Sadat Rahman on a dark background" 
+      src="https://placehold.co/1920x1080/ddd/334?font=montserrat&text=Sadat+Rahman">
   </picture>
 </div>
 
@@ -95,7 +103,15 @@
 
 
 <div>
-  <img src="https://github-stats-extended.vercel.app/api?username=mosarah99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&hide_rank=true"/> 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mosarah99&layout=compact&langs_count=6&hide_values=true&hide_border=true&theme=tokyonight"/>
+  <picture>
+    <source 
+      aria-label="Image of github stats for mosarah99 provided by an external source" 
+      srcset="https://github-stats-extended.vercel.app/api?username=mosarah99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&hide_rank=true"/> 
+  </picture>
+  <picture>
+    <source 
+      aria-label="Image Stats of programming languages for mosarah99 provided by an external source" 
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=mosarah99&layout=compact&langs_count=6&hide_values=true&hide_border=true&theme=tokyonight"/>
+  </picture>
 </div>
 
